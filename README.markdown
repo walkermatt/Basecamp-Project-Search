@@ -7,5 +7,3 @@ Requires [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemon
 ### To-do
 
 * Add keyboard short cut to focus the search input
-* Avoid creating any additional global variables by wrapping in a self-invoking function
-
