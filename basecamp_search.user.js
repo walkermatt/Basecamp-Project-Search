@@ -14,7 +14,7 @@
     input.style.position = 'absolute';
     input.style.right = '23px';
     input.style.top = '24px';
-    input.style.width = '207px';
+    input.style.width = '232px';
     header.appendChild(input);
     input.addEventListener('keyup',function(e) {
 	if (e.keyCode == 13) {
